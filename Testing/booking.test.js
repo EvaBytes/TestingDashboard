@@ -1,1 +1,0 @@
-const { Booking } = require('./booking');

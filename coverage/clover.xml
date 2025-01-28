@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1738079289437" clover="3.2.0">
+  <project timestamp="1738079289437" name="All files">
+    <metrics statements="36" coveredstatements="35" conditionals="20" coveredconditionals="19" methods="11" coveredmethods="11" elements="67" coveredelements="65" complexity="0" loc="36" ncloc="36" packages="1" files="1" classes="1"/>
+    <file name="room.js" path="/Users/evasevillanoplata/Desktop/OXYGEN/TestingDashboard/Testing/room.js">
+      <metrics statements="36" coveredstatements="35" conditionals="20" coveredconditionals="19" methods="11" coveredmethods="11"/>
+      <line num="3" count="7" type="cond" truecount="3" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="20" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="29" count="5" type="stmt"/>
+      <line num="30" count="5" type="stmt"/>
+      <line num="31" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="5" type="stmt"/>
+      <line num="35" count="2" type="stmt"/>
+      <line num="40" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="50" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="54" count="8" type="stmt"/>
+      <line num="55" count="8" type="stmt"/>
+      <line num="56" count="8" type="stmt"/>
+      <line num="57" count="8" type="stmt"/>
+      <line num="58" count="8" type="stmt"/>
+      <line num="59" count="8" type="stmt"/>
+      <line num="62" count="9" type="stmt"/>
+      <line num="66" count="2" type="stmt"/>
+      <line num="67" count="2" type="stmt"/>
+      <line num="68" count="2" type="stmt"/>
+      <line num="69" count="2" type="stmt"/>
+      <line num="74" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
