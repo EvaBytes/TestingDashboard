@@ -84,7 +84,6 @@ static availableRooms(rooms: Room[], startDate: Date, endDate: Date) {
 }
 
 
-
 export class Booking {
   name:string;
   email:string;
